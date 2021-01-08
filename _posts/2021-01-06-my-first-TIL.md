@@ -3,7 +3,7 @@ layout: post
 title: TIL-1, 첫번째 TIL을 작성했다.
 feature-img: "assets/img/feature-img/story.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/story.jpeg"
-tags: [ TIL ]
+tags: [ TIL, 알고리즘, 백준 ]
 ---
 
 ## 1.오늘의 컨디션

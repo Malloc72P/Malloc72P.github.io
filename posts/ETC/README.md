@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Acmicpc 문제풀이
+# ETC
 
 
 {% include list.liquid all=true %}

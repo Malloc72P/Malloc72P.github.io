@@ -2,8 +2,7 @@
 sort: 1
 ---
 
-# Acmicpc 문제풀이
-
+# 정규표현식
 
 {% include list.liquid all=true %}
 

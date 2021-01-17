@@ -15,3 +15,5 @@ title: 화이트보드
 * 자바의 예외처리에 대해 더 공부하기
 * 댓글 플러그인 설치하고 적용하기
 * github page랑 jekyll, 그리고 bundle이 뭔지 좀 정리하기
+* String.format으로 StringBuilder에 append했을 때 성능이 하락하는 이유
+* BufferedWriter랑 System.out.println 둘의 성능비교

@@ -27,12 +27,6 @@ title: 화이트보드
 * github page랑 jekyll, 그리고 bundle이 뭔지 좀 정리하기
 
 * String.format으로 StringBuilder에 append했을 때 성능이 하락하는 이유
-
 * BufferedWriter랑 System.out.println 둘의 성능비교
-
-* ```
-  //
-  //FQCN?
-  //hashcode를 hexDec로 바꿔서 출력
-  //
-  ```
+* til에서 서브 카테고리로 안옮긴 내용들 다 옮겨줄것. 정규표현식 포함
+* 자바에서 FQCN이 뭘까?

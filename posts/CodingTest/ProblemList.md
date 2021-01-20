@@ -4,6 +4,10 @@ title: 문제 목록
 tags: [ 알고리즘, 백준 ]
 ---
 
+> [Typora Shortcut](https://support.typora.io/Shortcut-Keys/)
+
+### 백준
+
 | 문제번호 | 이름 | 유형 | 풀었음 | 다시 풀었음 | 체감 난이도 | 혼자 풀었는지 여부 |
 | :-----: | :--------: | :------: | :---: | :-----: | :---: | :---: |
 | [10951](https://www.acmicpc.net/problem/10951) | A+B-4 | 입출력 |  |  | :one: | :1st_place_medal: |
@@ -20,7 +24,29 @@ tags: [ 알고리즘, 백준 ]
 | [1929](https://www.acmicpc.net/problem/1929) | 소수구하기 | 수학 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [6588](https://www.acmicpc.net/problem/6588) | 골드바흐 | 수학 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [9613](https://www.acmicpc.net/problem/9613) | GCD합 | 수학 | :ballot_box_with_check: | | :three: | |
-| | | | | | | |
+|  |  |  |  | |  |  |
+|  |  |  |  | |  |  |
+
+
+
+***
+
+
+
+### 프로그래머스
+
+|                           문제번호                           |        이름        | 유형 |         풀었음          | 다시 풀었음 | 체감 난이도 | 혼자 풀었는지 여부 |
+| :----------------------------------------------------------: | :----------------: | :--: | :---------------------: | :---------: | :---------: | :----------------: |
+| [64061](https://programmers.co.kr/learn/courses/30/lessons/64061?language=java) |    크레인 게임     | 배열 | :ballot_box_with_check: |             |    :two:    | :1st_place_medal:  |
+| [42840](https://programmers.co.kr/learn/courses/30/lessons/42840) |      모의고사      | 배열 | :ballot_box_with_check: |             |    :one:    | :1st_place_medal:  |
+| [12930](https://programmers.co.kr/learn/courses/30/lessons/12930) | 이상한 문자 만들기 |  큐  | :ballot_box_with_check: |             |   :three:   | :1st_place_medal:  |
+| [42748](https://programmers.co.kr/learn/courses/30/lessons/42748) |      K번째 수      | 배열 | :ballot_box_with_check: |             |    :one:    | :1st_place_medal:  |
+
+
+
+***
+
+
 
 ### 이모지
 

@@ -4,7 +4,17 @@ title: 문제 목록
 tags: [ 알고리즘, 백준 ]
 ---
 
+### 유용한 링크
+
 > [Typora Shortcut](https://support.typora.io/Shortcut-Keys/)
+
+### 잊으면 안되는 것
+
+![Don't Forget 3.Oct.11 Meaning and Connection to 'Fullmetal Alchemist'](https://media.distractify.com/brand-img/N7xD80fjk/480x252/fmawatch-1570130062477.jpg) 
+
+
+* 문제풀때 덤비지 말 것. 요구사항 다 이해한 다음 어떻게 풀지 고민할 것
+* 그림이 주어지면 최대한 이용할 것. 그림에 풀이가 숨어있는 경우가 많다.
 
 ### 백준
 

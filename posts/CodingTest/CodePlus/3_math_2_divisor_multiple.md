@@ -65,6 +65,19 @@ public static void getEuclidGcd(int a, int b){
 }
 ```
 
+```java
+//이건 재귀호출로 푸는 방법이다.
+//딱히 재귀호출로 푼다고 해서 성능이 떨어지진 않는 것 같다.
+//외우기 쉽게 하려면 abb, bab라고 외우면 될 것 같다.
+public static int gcd(int a, int b){
+    if(a % b == 0)
+        return b;
+    else return gcd(b , a%b);
+}
+```
+
+
+
 이 알고리즘은 O(lgn)의 시간복잡도를 가진다.
 
 #### 배수

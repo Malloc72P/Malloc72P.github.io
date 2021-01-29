@@ -1,6 +1,6 @@
 ---
-sort: 1
-title: 함수형 프로그래밍의 정의
+sort: 3
+title: 람다표현식
 tags: [ FP ]
 ---
 

@@ -36,7 +36,7 @@ tags: [ 알고리즘, 백준 ]
 
 * DP로 문제풀땐 작은 문제부터 풀어서 큰 문제를 풀 수 있도록 시도하는게 답일 수 있다.
 
-  반대로 큰 문제를 나눠가야 풀리는 경우도 있다.
+  반대로 큰 문제를 나눠가야 풀리는 경우도 있다.
 
 ### 백준
 
@@ -58,6 +58,17 @@ tags: [ 알고리즘, 백준 ]
 | [9613](https://www.acmicpc.net/problem/9613) | GCD합 | 수학 | :ballot_box_with_check: | | :three: | |
 | [1403](https://www.acmicpc.net/problem/1403) | 1만들기 | DP | :ballot_box_with_check: | | :five: |  |
 | [11726](https://www.acmicpc.net/problem/11726) | 2xn 타일링 | DP | :ballot_box_with_check: | | :six: |  |
+| [11727](https://www.acmicpc.net/problem/11727) | 2xn 타일링2 | DP | :ballot_box_with_check: | | :six: | |
+| [9095](https://www.acmicpc.net/problem/9095) | 1,2,3더하기 | DP | :ballot_box_with_check: | | :four: | |
+| [11052](https://www.acmicpc.net/problem/11052) | 카드구매1 | DP | :ballot_box_with_check: | | :five: | :1st_place_medal: |
+| [16194](https://www.acmicpc.net/problem/16194) | 카드구매2 | DP | :ballot_box_with_check: | | :five: | :1st_place_medal: |
+| [15990](https://www.acmicpc.net/problem/15990) | 123더하기 5 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
+| [10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단수 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
 
 
 

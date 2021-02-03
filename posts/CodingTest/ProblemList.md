@@ -64,7 +64,7 @@ tags: [ 알고리즘, 백준 ]
 | [16194](https://www.acmicpc.net/problem/16194) | 카드구매2 | DP | :ballot_box_with_check: | | :five: | :1st_place_medal: |
 | [15990](https://www.acmicpc.net/problem/15990) | 123더하기 5 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
 | [10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단수 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
-| | | | | | | |
+| [2193](https://www.acmicpc.net/problem/2193) | 이친수 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |

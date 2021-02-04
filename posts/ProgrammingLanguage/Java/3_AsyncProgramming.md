@@ -124,10 +124,10 @@ exceptionCheckedFutureWorkerFx >> Thread ID : 14 >> Start Task...
 Exception in thread "main" java.util.concurrent.ExecutionException: java.lang.ArithmeticException: / by zero
 	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:395)
 	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1999)
-	at CS10_7_ASIO.Practice.asyncPractice.test4(asyncPractice.java:62)
-	at CS10_7_ASIO.Practice.asyncPractice.main(asyncPractice.java:17)
+	at _7_ASIO.Practice.asyncPractice.test4(asyncPractice.java:62)
+	at _7_ASIO.Practice.asyncPractice.main(asyncPractice.java:17)
 Caused by: java.lang.ArithmeticException: / by zero
-	at CS10_7_ASIO.Practice.asyncPractice.lambda$exceptionCheckedFutureWorkerFx$5(asyncPractice.java:97)
+	at _7_ASIO.Practice.asyncPractice.lambda$exceptionCheckedFutureWorkerFx$5(asyncPractice.java:97)
 	at java.base/java.lang.Thread.run(Thread.java:834)
 */
 ```

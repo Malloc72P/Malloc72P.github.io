@@ -58,69 +58,13 @@ isOdd.test(13) : true
 
 맞는 인터페이스에 람다표현식을 대입하고 쓰면 된다.
 
-## 예제 : 약수, 진약수 등의 수로 변환하는 함수 만들기
-
-패러미터로 받은 정수의 모든 약수를 구해서 hashSet에 넣고 리턴하는 순수함수를 작성해보자. 그러면 아래의 그림처럼 돌아가야 하니, 인터페이스는 Function<< Integer, HashSet<Integer>>로 하면 되겠다.
-
-![image-20210118235746987](../../TIL/image-20210118235746987.png)
-
-인터페이스에 대입할 람다 표현식은 아래와 같다.
-
-```java
-public static Function<Integer, HashSet<Integer>> factors = (n)->{
-    HashSet<Integer> factors = new HashSet<>();
-    for (int pod=1; pod <= Math.sqrt(n); pod++) {
-        if ( isFactor.test(n, pod) ) {
-            factors.add(pod);
-            factors.add(n / pod);
-        }
-    }
-    return factors;
-};
-//factors 람다표현식을 실행하고 싶으면, apply(n)메서드를 호출하면 된다.
-//아래 코드는 완전수를 구할 때 factors 함수를 응용하는 예제이다.
-public static Predicate<Integer> isPerfect = (n)->sum.apply(factors.apply(n)) - n == n;
-```
-
-나머지 메서드도 이런식으로 변환해주면 된다.
-
-### 미션2
-
-#### 고차함수를 이용해서 2부터 100까지의 자연수를 분류해서 출력한다.
-
-![image-20210119002857428](../../TIL/image-20210119002857428.png)
-
-buildIntArray함수로 두개의 정수를 ArrayList로 변환한다. 2, 100이면 2부터 100까지의 ArrayList<Integer>가 생긴다. 리턴받은 다음 forEach함수를 호출한다. 이때 정수값을 패러미터로 받아서 분류하여 출력하는 컨슈머 함수인 classify를 forEach함수의 아규먼트로 넘긴다. 그러면 ArrayList의 모든 요소에 대해 classify컨슈머가 실행된다.
-
-```java
-buildIntArray.apply(2, 100).forEach(classify);
-/*
-*** output ***
- 2 : deficient, prime
- 3 : deficient, prime
- 4 : deficient, 
-...
-94 : deficient, 
-95 : deficient, 
-96 : abundant, 
-97 : deficient, prime
-98 : deficient, 
-99 : deficient, 
-100 : abundant, 
-*/
-```
-
-### 코드를 리팩토링 해보기
-
 #### andThen을 사용해보자.
-
-완전수를 구할 때, 아래처럼 짰는데, 오늘 강의를 들어보고 나니, 이러면 함수형 프로그래밍의 장점 중 하나인 가독성을 포기하는 것 같다.
 
 ```java
 (n)->sum.apply(factors.apply(n)) - n == n;
 ```
 
-apply도 두번 써야 하고, 우선 내가 생각하는 방식이랑 다르게 작성되었다. factors와 sum을 각각 fx, gx로 두면 아래처럼 표현할 수 있다.
+위의 코드를 좀 더 보기 좋게 만들어보자
 
 f(x) = factors(int x)
 

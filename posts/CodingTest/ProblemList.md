@@ -40,8 +40,8 @@ tags: [ 알고리즘, 백준 ]
 
 ### 백준
 
-| 문제번호 | 이름 | 유형 | 풀었음 | 다시 풀었음 | 체감 난이도 | 혼자 풀었는지 여부 |
-| :-----: | :--------: | :------: | :---: | :-----: | :---: | :---: |
+| 문제번호 | 이름 | 유형 | 풀었음 | 다시 품 | 체감난이도 | 혼자 품 |
+| :-------: | :------: | :------: | :---: | :-----: | :---: | :---: |
 | [10951](https://www.acmicpc.net/problem/10951) | A+B-4 | 입출력 |  |  | :one: | :1st_place_medal: |
 | [9093](https://www.acmicpc.net/problem/9093) | 단어뒤집기 | 스택 | :ballot_box_with_check: |             | :one: |  |
 | [9012](https://www.acmicpc.net/problem/9012) | 괄호체크 | 스택 | :ballot_box_with_check: |             | :one: |  |
@@ -69,6 +69,13 @@ tags: [ 알고리즘, 백준 ]
 | [14002](https://www.acmicpc.net/problem/14002) | 가장 긴 증가하는 부분수열4 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [1912](https://www.acmicpc.net/problem/1912) | 연속합 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [1699](https://www.acmicpc.net/problem/1699) | 제곱수의 합 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
+| [2225](https://www.acmicpc.net/problem/2225) | 합분해 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
+| [1149](https://www.acmicpc.net/problem/1149) | RGB거리 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [1309](https://www.acmicpc.net/problem/1309) | 동물원 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [11057](https://www.acmicpc.net/problem/11057) | 오르막수 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+|  |  |  |  | |  |  |
+|  |  |  |  | |  |  |
+|  |  |  |  | |  |  |
 
 
 

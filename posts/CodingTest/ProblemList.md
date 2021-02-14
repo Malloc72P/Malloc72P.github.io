@@ -74,7 +74,9 @@ tags: [ 알고리즘, 백준 ]
 | [1309](https://www.acmicpc.net/problem/1309) | 동물원 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [11057](https://www.acmicpc.net/problem/11057) | 오르막수 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [9465](https://www.acmicpc.net/problem/9465) | 스티커 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
-|  |  |  |  | |  |  |
+| [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
+| | | | | | | |
+| | | | | | | |
 |  |  |  |  | |  |  |
 
 

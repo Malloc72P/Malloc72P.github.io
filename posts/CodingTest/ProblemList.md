@@ -75,9 +75,14 @@ tags: [ 알고리즘, 백준 ]
 | [11057](https://www.acmicpc.net/problem/11057) | 오르막수 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [9465](https://www.acmicpc.net/problem/9465) | 스티커 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
 | [2156](https://www.acmicpc.net/problem/2156) | 포도주 시식 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
-| | | | | | | |
-| | | | | | | |
-|  |  |  |  | |  |  |
+| [1932](https://www.acmicpc.net/problem/1932) | 정수삼각형 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
+| [11055](https://www.acmicpc.net/problem/11055) | 가장 큰 증가 부분 수열 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [11722](https://www.acmicpc.net/problem/11722) | 가장 긴 감소하는 부분 수열 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [11054](https://www.acmicpc.net/problem/11054) | 가장 긴 바이토닉 부분수열 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+|  |  | | | | | |
+|  |  | | | | | |
+|  |  | | | | | |
+|  |  | | | | | |
 
 
 

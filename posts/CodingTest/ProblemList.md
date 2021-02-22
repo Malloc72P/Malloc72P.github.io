@@ -79,8 +79,8 @@ tags: [ 알고리즘, 백준 ]
 | [11055](https://www.acmicpc.net/problem/11055) | 가장 큰 증가 부분 수열 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [11722](https://www.acmicpc.net/problem/11722) | 가장 긴 감소하는 부분 수열 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [11054](https://www.acmicpc.net/problem/11054) | 가장 긴 바이토닉 부분수열 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
-|  |  | | | | | |
-|  |  | | | | | |
+| [11398](https://www.acmicpc.net/problem/11398) | 연속합2 | DP | :ballot_box_with_check: | | :seven: | |
+| [2133](https://www.acmicpc.net/problem/2133) | 타일 채우기 | DP | :ballot_box_with_check: | | :seven: | |
 |  |  | | | | | |
 |  |  | | | | | |
 

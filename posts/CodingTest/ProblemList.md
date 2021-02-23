@@ -81,7 +81,7 @@ tags: [ 알고리즘, 백준 ]
 | [11054](https://www.acmicpc.net/problem/11054) | 가장 긴 바이토닉 부분수열 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [11398](https://www.acmicpc.net/problem/11398) | 연속합2 | DP | :ballot_box_with_check: | | :seven: | |
 | [2133](https://www.acmicpc.net/problem/2133) | 타일 채우기 | DP | :ballot_box_with_check: | | :seven: | |
-|  |  | | | | | |
+| [17404](https://www.acmicpc.net/problem/17404) | RGB거리2 | DP | :ballot_box_with_check: |  | :seven: | :1st_place_medal: |
 |  |  | | | | | |
 
 

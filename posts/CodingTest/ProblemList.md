@@ -61,7 +61,7 @@ tags: [ 알고리즘, 백준 ]
 
 | 문제번호 | 이름 | 유형 | 풀었음 | 다시 품 | 체감난이도 | 혼자 품 |
 | :-------: | :------: | :------: | :---: | :-----: | :---: | :---: |
-| [10951](https://www.acmicpc.net/problem/10951) | A+B-4 | 입출력 |  |  | :one: | :1st_place_medal: |
+| [10951](https://www.acmicpc.net/problem/10951) | A+B-4 | 입출력 | :ballot_box_with_check: |  | :one: | :1st_place_medal: |
 | [9093](https://www.acmicpc.net/problem/9093) | 단어뒤집기 | 스택 | :ballot_box_with_check: |             | :one: |  |
 | [9012](https://www.acmicpc.net/problem/9012) | 괄호체크 | 스택 | :ballot_box_with_check: |             | :one: |  |
 | [1874](https://www.acmicpc.net/problem/1874) | 스택수열 | 스택 | :ballot_box_with_check: |             | :two: |  |
@@ -107,6 +107,10 @@ tags: [ 알고리즘, 백준 ]
 | [17425](https://www.acmicpc.net/problem/17425) | 약수의 합 | 약수, DP | :ballot_box_with_check: | | :seven: | |
 | [2309](https://www.acmicpc.net/problem/2309) | 일곱난쟁이 | 브루트포스 | :ballot_box_with_check: | | :three: | :1st_place_medal: |
 | [3085](https://www.acmicpc.net/problem/3085) | 사탕게임 | 브루트포스 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [1476](https://www.acmicpc.net/problem/1476) | 날짜 계산 | 브루트포스 | :ballot_box_with_check: | | :two: | :1st_place_medal: |
+| [1107](https://www.acmicpc.net/problem/1107) | 리모콘 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
+| | | | | | | |
+| | | | | | | |
 | | | | | | | |
 
 

@@ -16,10 +16,10 @@ tags: [ 알고리즘, 백준 ]
 
 ### 문제푸는 스킬
 
-#### 문제푸는 요령
+#### 문제푸는 요령
 
 * 문제의 입력이 어떻게 해서 출력이 나오는지 안 다음 알고리즘을 짜야한다. 
-* 출력할게 많으면 StringBuilder를 쓰는편이 좋다. 특히, 테스트케이스가 여러개 주어지는 문제라면, BufferedReader와 StringBuilder를 써야 문제를 빨리 풀 수 있다. 10만건의 테케가 주어졌는데, 각각 `syso`로 출력하면, 너무 오래걸려서 시간초과가 발생할 수 있다.
+* 출력할게 많으면 StringBuilder를 쓰는편이 좋다. 특히, 테스트케이스가 여러개 주어지는 문제라면, BufferedReader와 StringBuilder를 써야 문제를 빨리 풀 수 있다. 10만건의 테케가 주어졌는데, 각각 `syso`로 출력하면, 너무 오래걸려서 시간초과가 발생할 수 있다.
 
 #### 약수
 
@@ -32,18 +32,18 @@ tags: [ 알고리즘, 백준 ]
 * **소수는 에라토스테네스의 체**를 이용해서 구해라. 
 * N이 소수인지 알고 싶다면,  √N까지만 mod해라.
 
-#### 나머지 연산
+#### 나머지 연산
 
 **모듈로 연산의 결과는 0 ~ n-1**이 된다. 여기서 주의할 점은, 
 
 * **절대로 n이상이 되지 않는다**는 것
 * **시작점이 0**이라는 것. 그래서 입력의 시작점이 1이라면, 모듈로 연산에 넣기 전에 -1해서 넣고, 출력은 +1해야한다.
 
-#### 패턴찾는 문제
+#### 패턴찾는 문제
 
 * 패턴찾는 문제는 직접 써보면서 찾으면 쉬울 수 있다.
 
-#### 다이나믹 프로그래밍
+#### 다이나믹 프로그래밍
 
 * 문제를 분할해서 푸는데, 중복된 분할작업이 나온다면 그건 DP로 풀어라.
 
@@ -52,6 +52,7 @@ tags: [ 알고리즘, 백준 ]
   반대로 큰 문제를 나눠가야 풀리는 경우도 있다.
 
 * 점화식을 정의하는편이 좋다. 점화식을 세우는 연습을 하자
+  
   * 점화식은 `d[n]` 이 무엇인지 확실히 정의하자. 길이가 n인 수열에서 가장 큰 부분수열의 최대합이라던지, 이렇게 정의한 다음, `d[n] = d[n-1] + a[n]` 이런식으로 점화식을 풀어낸다면, DP문제를 풀 수 있을지도 모른다.
 
 
@@ -70,7 +71,7 @@ tags: [ 알고리즘, 백준 ]
 | [17298](https://www.acmicpc.net/problem/17298) | 오큰수 | 분류 | :ballot_box_with_check: | | :four: |  |
 | [17299](https://www.acmicpc.net/problem/17299) | 오등큰수 | 자료구조, 스택 | :ballot_box_with_check: | | :one: | :1st_place_medal: |
 | [2609](https://www.acmicpc.net/problem/2609) | GCD,LCM | 수학 | :ballot_box_with_check: | | :one: | :1st_place_medal: |
-| [1978](https://www.acmicpc.net/problem/1978) | 소수찾기 | 수학 | :ballot_box_with_check: | | :three: | :1st_place_medal: |
+| [1978](https://www.acmicpc.net/problem/1978) | 소수찾기 | 수학 | :ballot_box_with_check: | :star2: | :three: | :1st_place_medal: |
 | [1929](https://www.acmicpc.net/problem/1929) | 소수구하기 | 수학 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [6588](https://www.acmicpc.net/problem/6588) | 골드바흐 | 수학 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [9613](https://www.acmicpc.net/problem/9613) | GCD합 | 수학 | :ballot_box_with_check: | | :three: | |
@@ -104,8 +105,8 @@ tags: [ 알고리즘, 백준 ]
 | [1037](https://www.acmicpc.net/problem/1037) | 약수 | 약수 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [17427](https://www.acmicpc.net/problem/17427) | 약수의 합2 | 약수 | :ballot_box_with_check: | | :six: |  |
 | [17425](https://www.acmicpc.net/problem/17425) | 약수의 합 | 약수, DP | :ballot_box_with_check: | | :seven: | |
-| | | | | | | |
-| | | | | | | |
+| [2309](https://www.acmicpc.net/problem/2309) | 일곱난쟁이 | 브루트포스 | :ballot_box_with_check: | | :three: | :1st_place_medal: |
+| [3085](https://www.acmicpc.net/problem/3085) | 사탕게임 | 브루트포스 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | | | | | | | |
 
 

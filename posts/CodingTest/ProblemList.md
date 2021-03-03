@@ -109,7 +109,7 @@ tags: [ 알고리즘, 백준 ]
 | [3085](https://www.acmicpc.net/problem/3085) | 사탕게임 | 브루트포스 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [1476](https://www.acmicpc.net/problem/1476) | 날짜 계산 | 브루트포스 | :ballot_box_with_check: | | :two: | :1st_place_medal: |
 | [1107](https://www.acmicpc.net/problem/1107) | 리모콘 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
-| | | | | | | |
+| [6064](https://www.acmicpc.net/problem/6064) | 카잉 달력 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | | | | | | | |
 | | | | | | | |
 

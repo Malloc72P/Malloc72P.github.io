@@ -110,6 +110,11 @@ tags: [ 알고리즘, 백준 ]
 | [1476](https://www.acmicpc.net/problem/1476) | 날짜 계산 | 브루트포스 | :ballot_box_with_check: | | :two: | :1st_place_medal: |
 | [1107](https://www.acmicpc.net/problem/1107) | 리모콘 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | [6064](https://www.acmicpc.net/problem/6064) | 카잉 달력 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
+| [1748](https://www.acmicpc.net/problem/1748) | 수 이어쓰기 1 | 브루트포스 | :ballot_box_with_check: | | :three: | :1st_place_medal: |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
+| | | | | | | |
 | | | | | | | |
 | | | | | | | |
 

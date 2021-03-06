@@ -78,7 +78,7 @@ tags: [ 알고리즘, 백준 ]
 | [1403](https://www.acmicpc.net/problem/1403) | 1만들기 | DP | :ballot_box_with_check: | | :five: |  |
 | [11726](https://www.acmicpc.net/problem/11726) | 2xn 타일링 | DP | :ballot_box_with_check: | | :six: |  |
 | [11727](https://www.acmicpc.net/problem/11727) | 2xn 타일링2 | DP | :ballot_box_with_check: | | :six: | |
-| [9095](https://www.acmicpc.net/problem/9095) | 1,2,3더하기 | DP | :ballot_box_with_check: | | :four: | |
+| [9095](https://www.acmicpc.net/problem/9095) | 1,2,3더하기 | DP | :ballot_box_with_check: | :star2: | :four: | :1st_place_medal: |
 | [11052](https://www.acmicpc.net/problem/11052) | 카드구매1 | DP | :ballot_box_with_check: | | :five: | :1st_place_medal: |
 | [16194](https://www.acmicpc.net/problem/16194) | 카드구매2 | DP | :ballot_box_with_check: | | :five: | :1st_place_medal: |
 | [15990](https://www.acmicpc.net/problem/15990) | 123더하기 5 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
@@ -111,8 +111,12 @@ tags: [ 알고리즘, 백준 ]
 | [1107](https://www.acmicpc.net/problem/1107) | 리모콘 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | [6064](https://www.acmicpc.net/problem/6064) | 카잉 달력 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | [1748](https://www.acmicpc.net/problem/1748) | 수 이어쓰기 1 | 브루트포스 | :ballot_box_with_check: | | :three: | :1st_place_medal: |
-| | | | | | | |
-| | | | | | | |
+| [15649](https://www.acmicpc.net/problem/15649) | N과 M (1) | 브루트포스 | :ballot_box_with_check: | | :four: |  |
+| [15650](https://www.acmicpc.net/problem/15650) | N과 M (2) | 브루트포스 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [15651](https://www.acmicpc.net/problem/15651) | N과 M (3) | 브루트포스 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [15652](https://www.acmicpc.net/problem/15652) | N과 M (4) | 브루트포스 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [15654](https://www.acmicpc.net/problem/15654) | N과 M (5) | 브루트포스 | :ballot_box_with_check: | | :six: | :1st_place_medal: |
+| [18290](https://www.acmicpc.net/problem/18290) | NM과 K | 브루트포스 | :ballot_box_with_check: | | :six: | :1st_place_medal: |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |

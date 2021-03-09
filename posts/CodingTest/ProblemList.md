@@ -78,7 +78,7 @@ tags: [ 알고리즘, 백준 ]
 | [1403](https://www.acmicpc.net/problem/1403) | 1만들기 | DP | :ballot_box_with_check: | | :five: |  |
 | [11726](https://www.acmicpc.net/problem/11726) | 2xn 타일링 | DP | :ballot_box_with_check: | | :six: |  |
 | [11727](https://www.acmicpc.net/problem/11727) | 2xn 타일링2 | DP | :ballot_box_with_check: | | :six: | |
-| [9095](https://www.acmicpc.net/problem/9095) | 1,2,3더하기 | DP | :ballot_box_with_check: | :star2: | :four: | :1st_place_medal: |
+| [9095](https://www.acmicpc.net/problem/9095) | 1,2,3더하기 | DP, 브루트포스 | :ballot_box_with_check: | :star2::star2: | :four: | :1st_place_medal: |
 | [11052](https://www.acmicpc.net/problem/11052) | 카드구매1 | DP | :ballot_box_with_check: | | :five: | :1st_place_medal: |
 | [16194](https://www.acmicpc.net/problem/16194) | 카드구매2 | DP | :ballot_box_with_check: | | :five: | :1st_place_medal: |
 | [15990](https://www.acmicpc.net/problem/15990) | 123더하기 5 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
@@ -117,6 +117,8 @@ tags: [ 알고리즘, 백준 ]
 | [15652](https://www.acmicpc.net/problem/15652) | N과 M (4) | 브루트포스 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [15654](https://www.acmicpc.net/problem/15654) | N과 M (5) | 브루트포스 | :ballot_box_with_check: | | :six: | :1st_place_medal: |
 | [18290](https://www.acmicpc.net/problem/18290) | NM과 K | 브루트포스 | :ballot_box_with_check: | | :six: | :1st_place_medal: |
+| [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | 브루트포스 | :ballot_box_with_check: | | :six: | :1st_place_medal: |
+| [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |

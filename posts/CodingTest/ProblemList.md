@@ -84,7 +84,7 @@ tags: [ 알고리즘, 백준 ]
 | [15990](https://www.acmicpc.net/problem/15990) | 123더하기 5 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
 | [10844](https://www.acmicpc.net/problem/10844) | 쉬운 계단수 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
 | [2193](https://www.acmicpc.net/problem/2193) | 이친수 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
-| [11053](https://www.acmicpc.net/problem/11053) | 가장 긴 증가하는 부분수열 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [11053](https://www.acmicpc.net/problem/11053) | 가장 긴 증가하는 부분수열 | DP | :ballot_box_with_check: | :star2: | :five: | :1st_place_medal: |
 | [14002](https://www.acmicpc.net/problem/14002) | 가장 긴 증가하는 부분수열4 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [1912](https://www.acmicpc.net/problem/1912) | 연속합 | DP | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [1699](https://www.acmicpc.net/problem/1699) | 제곱수의 합 | DP | :ballot_box_with_check: | | :six: | :1st_place_medal: |
@@ -117,8 +117,8 @@ tags: [ 알고리즘, 백준 ]
 | [15652](https://www.acmicpc.net/problem/15652) | N과 M (4) | 브루트포스 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | [15654](https://www.acmicpc.net/problem/15654) | N과 M (5) | 브루트포스 | :ballot_box_with_check: | | :six: | :1st_place_medal: |
 | [18290](https://www.acmicpc.net/problem/18290) | NM과 K | 브루트포스 | :ballot_box_with_check: | | :six: | :1st_place_medal: |
-| [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | 브루트포스 | :ballot_box_with_check: | | :six: | :1st_place_medal: |
-| [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
+| [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | 브루트포스 | :ballot_box_with_check: | :star2: | :six: | :1st_place_medal: |
+| [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | 브루트포스 | :ballot_box_with_check: | :star2: | :seven: | :1st_place_medal: |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |

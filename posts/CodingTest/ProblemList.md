@@ -119,7 +119,7 @@ tags: [ 알고리즘, 백준 ]
 | [18290](https://www.acmicpc.net/problem/18290) | NM과 K | 브루트포스 | :ballot_box_with_check: | | :six: | :1st_place_medal: |
 | [1759](https://www.acmicpc.net/problem/1759) | 암호 만들기 | 브루트포스 | :ballot_box_with_check: | :star2: | :six: | :1st_place_medal: |
 | [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | 브루트포스 | :ballot_box_with_check: | :star2: | :seven: | :1st_place_medal: |
-| | | | | | | |
+| [14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |

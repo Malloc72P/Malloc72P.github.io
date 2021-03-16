@@ -121,7 +121,7 @@ tags: [ 알고리즘, 백준 ]
 | [14501](https://www.acmicpc.net/problem/14501) | 퇴사 | 브루트포스 | :ballot_box_with_check: | :star2: | :seven: | :1st_place_medal: |
 | [14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | [15661](https://www.acmicpc.net/problem/15661) | 링크와 스타트 | 브루트포스 | :ballot_box_with_check: | | :six: | |
-| | | | | | | |
+| [2529](https://www.acmicpc.net/problem/2529) | 부등호 | 브루트포스 | :ballot_box_with_check: | | :five: | |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |

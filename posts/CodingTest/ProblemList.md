@@ -122,8 +122,8 @@ tags: [ 알고리즘, 백준 ]
 | [14889](https://www.acmicpc.net/problem/14889) | 스타트와 링크 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | [15661](https://www.acmicpc.net/problem/15661) | 링크와 스타트 | 브루트포스 | :ballot_box_with_check: | | :six: | |
 | [2529](https://www.acmicpc.net/problem/2529) | 부등호 | 브루트포스 | :ballot_box_with_check: | | :five: | |
-| | | | | | | |
-| | | | | | | |
+| [1248](https://www.acmicpc.net/problem/1248) | 맞춰봐 | 브루트포스 | :ballot_box_with_check: | | :eight: | |
+| [10166](https://www.acmicpc.net/problem/10166) | 관중석 | 수학 | :ballot_box_with_check: | | :seven: | |
 | | | | | | | |
 | | | | | | | |
 | | | | | | | |

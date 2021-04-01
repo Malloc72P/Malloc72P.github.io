@@ -127,8 +127,11 @@ tags: [ 알고리즘, 백준 ]
 | [10972](https://www.acmicpc.net/problem/10972) | 다음순열 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | [10973](https://www.acmicpc.net/problem/10973) | 이전순열 | 브루트포스 | :ballot_box_with_check: | | :seven: | |
 | [10974](https://www.acmicpc.net/problem/10974) | 모든 순열 | 브루트포스 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
-| | | | | | | |
-| | | | | | | |
+| [10819](https://www.acmicpc.net/problem/10819) | 차이를 최대로 | 브루트포스 | :ballot_box_with_check: | | :five: | :1st_place_medal: |
+| [10971](https://www.acmicpc.net/problem/10971) | 외판원 순회2 | 브루트포스 | :ballot_box_with_check: | | :five: | :1st_place_medal: |
+| [6603](https://www.acmicpc.net/problem/6603) | 로또 | 브루트포스 | :ballot_box_with_check: | | :five: | :1st_place_medal: |
+| [11723](https://www.acmicpc.net/problem/11723) | 집합 | 비트마스크 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
+| [1182](https://www.acmicpc.net/problem/1182) | 부분 수열의 합 | 비트마스크 | :ballot_box_with_check: | | :four: | :1st_place_medal: |
 | | | | | | | |
 
 
